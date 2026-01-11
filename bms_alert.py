@@ -1,4 +1,4 @@
-WHATSAPP_NUMBER = "+919655266886X"
+WHATSAPP_NUMBER = "+91XXXXXXXXXX"
 import time
 import random
 import os
