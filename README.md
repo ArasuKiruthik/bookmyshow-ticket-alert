@@ -1,3 +1,4 @@
+
 # 🎬 BookMyShow Ticket Alert Bot
 
 A Python automation tool that continuously monitors a BookMyShow movie booking page and alerts the user when ticket booking becomes available.
@@ -33,3 +34,4 @@ Built using **Selenium WebDriver**, this script safely checks dynamic web conten
 pip3 install selenium webdriver-manager pywhatkit
 
 
+=======
